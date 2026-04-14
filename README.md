@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ant-Slayer
-- 👀 I’m interested in objecct oriented languages
-- 🌱 I’m currently learning C#, python, Lua(for roblox development)
-- 💞️ I’m looking to collaborate on app/game development
-- 📫 How to reach me : just say abrakadabra
+- 👋 Hi, I’m formerly @Ant-Slayer
+- 👀 I’m interested in object oriented languages
+- 🌱 Languages that i know (beginner-intermediate) : C#, C++, python, Lua
+- 📫 How to reach me : you can't 
 
 <!---
 Ant-Slayer/Ant-Slayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
